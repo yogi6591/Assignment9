@@ -1,0 +1,5 @@
+101,Avenger,Action,English,2021-03-07,Tony Stark,9.9,10000000
+102,Barfi,Drama,Hindi,2021-03-09,Ranbir Kapoor,9.9,100002020
+103,Charli Chaplien,Drama,English,2005-04-09,Charli,9.9,10022000
+104,Dhoom,Action,Hindi,2010-04-09,Rithik Roshan,9.3,10202020
+105,Sawariya,Romantic,Hindi,2019-02-12,Ranbir Kapoor,9.9,10202020
